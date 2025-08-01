@@ -122,6 +122,3 @@ MIT
 
 ---
 
-## Credits
-- She Can Foundation
-- Internship project template by your team
