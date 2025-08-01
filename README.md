@@ -49,7 +49,7 @@ server/
 1. **Clone the repository**
    ```bash
    # Clone your project folder
-   cd "She can foundation/task 1"
+   git clone "https://github.com/mafia-creater/intern-portal.git"
    ```
 2. **Install dependencies**
    ```bash

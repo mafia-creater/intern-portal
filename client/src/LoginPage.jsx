@@ -34,7 +34,7 @@ function LoginPage() {
       <div className="relative hidden md:block">
         <img 
           className="absolute inset-0 h-full w-full object-cover" 
-          src="https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=2070&auto=format&fit=crop" 
+          src="https://plus.unsplash.com/premium_photo-1678599821124-ede80e300d60?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
           alt="Fundraising event" 
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-70"></div>
